@@ -1,5 +1,14 @@
 # text-classification-with-python
 用朴素贝叶斯算法和结巴分词实现新闻主题分类，Python代码
+folder_path = '/Users/apple/Documents/七月在线/NLP/第2课/Lecture_2/Naive-Bayes-Text-Classifier/Database/SogouC/Sample'
+stopwords_file = '/Users/apple/Documents/七月在线/NLP/第2课/Lecture_2/Naive-Bayes-Text-Classifier/stopwords_cn.txt'
+ 
+
+下载地址：链接:https://pan.baidu.com/s/1O5mW04PlulaCW5TUd93OUg  密码:ubkq
+
+然后切换Python2.7，跑下面代码就可以进行自然语言入门了
+
+
 
 # 1 数据采集
 
